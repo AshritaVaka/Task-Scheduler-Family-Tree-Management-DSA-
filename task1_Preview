@@ -1,0 +1,40 @@
+# DSA Project: Task 1 (Family tree Management)
+
+##Overview
+
+## Task 1: Family Tree Management
+
+### Description
+
+This part of the project involves the implementation of a Family Tree structure with families rooted in ancestral nodes. 
+The code manages residents moving out by replacing departing nodes with the child node boasting the highest income. Key tasks include completing code for various tree operations, identifying the family with the highest income-to-age ratio, and printing families in descending order of total income.
+
+### Tree Operations
+
+The code includes functionality for basic tree operations:
+- Insertion of a new family member.
+- Deletion of a family member.
+- Traversal methods for tree exploration.
+
+### Additional Operations
+
+In addition to tree operations, the code provides the following functionalities:
+- Identifying the family with the highest income-to-age ratio.
+- Printing families in descending order of total income.
+
+### Family Data
+
+Crucial data for these operations includes:
+- Income of each family member.
+- Age of each family member.
+- Occupation of each family member.
+
+## Usage
+
+### Family Tree Management
+
+1. Include the necessary files in your project.
+2. Implement the provided tree operations in your application.
+3. Utilize the additional operations for analyzing family data.
+
+
