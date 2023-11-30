@@ -1,0 +1,26 @@
+# DSA Project:Task 2
+
+## Overview
+
+## Task 2: Task Scheduler
+
+### Description
+
+This part of the project involves the creation of a Task Scheduler. The scheduler is designed to manage and execute tasks efficiently.
+
+### Task Scheduler Features
+
+The Task Scheduler includes the following features:
+- Adding tasks to the scheduler.
+- Setting priorities for tasks.
+- Executing tasks based on their priorities.
+- Rescheduling tasks dynamically.
+
+## Usage
+
+### Task Scheduler
+
+1. Include the TaskScheduler module in your project.
+2. Add tasks with priorities.
+3. Execute and manage tasks using provided functionalities.
+
